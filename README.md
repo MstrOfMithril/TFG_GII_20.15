@@ -12,7 +12,7 @@ Durante el desarrollo se afrontará la implementación de la aplicación con los
 
 # Aplicación Web
 
-    wwww.formestallesgrans.com/formes
+    www.formestallesgrans.com/formes
 
 # Video de Presentación y explicación
     Version Entrega
