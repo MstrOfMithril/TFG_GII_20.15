@@ -15,7 +15,10 @@ Durante el desarrollo se afrontará la implementación de la aplicación con los
     wwww.formestallesgrans.com/formes
 
 # Video de Presentación y explicación
-
+    Version Entrega
+    https://vimeo.com/502689048
+    
+    Versión "Extendida"
     https://vimeo.com/502518595
 
 # Instalación en local
